@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\visilica\visilica\bin\Debug\net8.0\visilica.exe
+C:\Users\vital\source\repos\visilica\visilica\bin\Debug\net8.0\visilica.deps.json
+C:\Users\vital\source\repos\visilica\visilica\bin\Debug\net8.0\visilica.runtimeconfig.json
+C:\Users\vital\source\repos\visilica\visilica\bin\Debug\net8.0\visilica.dll
+C:\Users\vital\source\repos\visilica\visilica\bin\Debug\net8.0\visilica.pdb
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.AssemblyInfo.cs
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.dll
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\refint\visilica.dll
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.pdb
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\visilica.genruntimeconfig.cache
+C:\Users\vital\source\repos\visilica\visilica\obj\Debug\net8.0\ref\visilica.dll
