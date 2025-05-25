@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\libraryOne\libraryOne\bin\Debug\net8.0\libraryOne.exe
+C:\Users\vital\source\repos\libraryOne\libraryOne\bin\Debug\net8.0\libraryOne.deps.json
+C:\Users\vital\source\repos\libraryOne\libraryOne\bin\Debug\net8.0\libraryOne.runtimeconfig.json
+C:\Users\vital\source\repos\libraryOne\libraryOne\bin\Debug\net8.0\libraryOne.dll
+C:\Users\vital\source\repos\libraryOne\libraryOne\bin\Debug\net8.0\libraryOne.pdb
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.AssemblyInfo.cs
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.dll
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\refint\libraryOne.dll
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.pdb
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\libraryOne.genruntimeconfig.cache
+C:\Users\vital\source\repos\libraryOne\libraryOne\obj\Debug\net8.0\ref\libraryOne.dll
