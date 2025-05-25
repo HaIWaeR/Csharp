@@ -1,0 +1,7 @@
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\bin\Debug\booksCSVfile.exe.config
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\bin\Debug\booksCSVfile.exe
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\bin\Debug\booksCSVfile.pdb
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\obj\Debug\booksCSVfile.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\obj\Debug\booksCSVfile.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\obj\Debug\booksCSVfile.exe
+C:\Users\vital\source\repos\booksCSVfile\booksCSVfile\obj\Debug\booksCSVfile.pdb
