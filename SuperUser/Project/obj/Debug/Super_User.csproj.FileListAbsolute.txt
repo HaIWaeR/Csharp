@@ -1,0 +1,7 @@
+C:\Users\vital\source\repos\Super_User\Super_User\bin\Debug\Super_User.exe.config
+C:\Users\vital\source\repos\Super_User\Super_User\bin\Debug\Super_User.exe
+C:\Users\vital\source\repos\Super_User\Super_User\bin\Debug\Super_User.pdb
+C:\Users\vital\source\repos\Super_User\Super_User\obj\Debug\Super_User.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\Super_User\Super_User\obj\Debug\Super_User.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\Super_User\Super_User\obj\Debug\Super_User.exe
+C:\Users\vital\source\repos\Super_User\Super_User\obj\Debug\Super_User.pdb
