@@ -1,0 +1,8 @@
+C:\Users\argument\source\repos\itHub\itHub\bin\Debug\itHub.exe.config
+C:\Users\argument\source\repos\itHub\itHub\bin\Debug\itHub.exe
+C:\Users\argument\source\repos\itHub\itHub\bin\Debug\itHub.pdb
+C:\Users\argument\source\repos\itHub\itHub\obj\Debug\itHub.csproj.AssemblyReference.cache
+C:\Users\argument\source\repos\itHub\itHub\obj\Debug\itHub.csproj.CoreCompileInputs.cache
+C:\Users\argument\source\repos\itHub\itHub\obj\Debug\itHub.exe
+C:\Users\argument\source\repos\itHub\itHub\obj\Debug\itHub.pdb
+C:\Users\argument\source\repos\itHub\itHub\obj\Debug\itHub.exe.config
