@@ -1,0 +1,8 @@
+C:\Users\argument\source\repos\MinStack\MinStack\bin\Debug\MinStack.exe.config
+C:\Users\argument\source\repos\MinStack\MinStack\bin\Debug\MinStack.exe
+C:\Users\argument\source\repos\MinStack\MinStack\bin\Debug\MinStack.pdb
+C:\Users\argument\source\repos\MinStack\MinStack\obj\Debug\MinStack.csproj.AssemblyReference.cache
+C:\Users\argument\source\repos\MinStack\MinStack\obj\Debug\MinStack.csproj.CoreCompileInputs.cache
+C:\Users\argument\source\repos\MinStack\MinStack\obj\Debug\MinStack.exe
+C:\Users\argument\source\repos\MinStack\MinStack\obj\Debug\MinStack.pdb
+C:\Users\argument\source\repos\MinStack\MinStack\obj\Debug\MinStack.exe.config

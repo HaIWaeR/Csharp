@@ -1,0 +1,8 @@
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+C:\Users\argument\source\repos\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe.config
