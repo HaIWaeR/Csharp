@@ -1,8 +1,0 @@
-C:\Users\argument\source\repos\Loto\Loto\bin\Debug\Loto.exe.config
-C:\Users\argument\source\repos\Loto\Loto\bin\Debug\Loto.exe
-C:\Users\argument\source\repos\Loto\Loto\bin\Debug\Loto.pdb
-C:\Users\argument\source\repos\Loto\Loto\obj\Debug\Loto.csproj.AssemblyReference.cache
-C:\Users\argument\source\repos\Loto\Loto\obj\Debug\Loto.csproj.CoreCompileInputs.cache
-C:\Users\argument\source\repos\Loto\Loto\obj\Debug\Loto.exe
-C:\Users\argument\source\repos\Loto\Loto\obj\Debug\Loto.pdb
-C:\Users\argument\source\repos\Loto\Loto\obj\Debug\Loto.exe.config
